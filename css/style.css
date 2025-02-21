@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-#nav-bar {
+.nav-bar {
     padding: 20px;
     margin: 10px 0;
     text-align: center;
